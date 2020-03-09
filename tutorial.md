@@ -10,5 +10,5 @@
 7. Filter for ages and styles
 
 # Website Example
-[kOMODO](https://www.komodo.co.uk/)
-[People Tree](https://www.peopletree.co.uk/)
+1. [kOMODO](https://www.komodo.co.uk/)
+2. [People Tree](https://www.peopletree.co.uk/)
