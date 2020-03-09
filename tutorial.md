@@ -9,6 +9,6 @@
 6. New Arrivals
 7. Filter for ages and styles
 
-# Website Example
+## Website Example
 1. [kOMODO](https://www.komodo.co.uk/)
 2. [People Tree](https://www.peopletree.co.uk/)
